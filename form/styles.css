@@ -1,0 +1,19 @@
+body{
+    background: #f4f6f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    background: white;
+    padding: 30px;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
