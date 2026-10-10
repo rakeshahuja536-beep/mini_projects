@@ -1,11 +1,11 @@
 # Mini Projects
 
-Ye repository mere beginner-level web development mini projects ka collection hai, jo maine HTML, CSS aur JavaScript seekhte waqt banaye hain.
+A collection of beginner-level web development mini projects built while learning HTML, CSS and JavaScript.
 
 ## Projects
 
 ### 1. Bookmark Page (`bookmark.html`)
-Ek simple bookmark page jisme popular websites ke links diye gaye hain:
+A simple bookmark page with quick links to popular websites:
 - Facebook
 - Instagram
 - LinkedIn
@@ -13,13 +13,13 @@ Ek simple bookmark page jisme popular websites ke links diye gaye hain:
 - YouTube
 
 ### 2. Grid Layout (`grid/`)
-CSS Grid ka use karke banaya gaya layout jisme **10 grid items** hain. Ye project sirf HTML aur CSS se bana hai.
+A layout built with CSS Grid, featuring **10 grid items**. This project uses only HTML and CSS.
 
 ### 3. Student Form (`form/`)
-Ek form jisme student ki details bhari jati hain. Form ko center mein dikhane aur sundar banane ke liye CSS Flexbox use kiya gaya hai.
+A form for entering student details. The form is centered and styled using CSS Flexbox.
 
 ### 4. JavaScript Practice (`grid/javascript/index.js`)
-Ek alag JavaScript file jo practice ke liye banayi gayi hai. Iska grid layout se koi connection nahi hai.
+A separate JavaScript file created for practice. It is not connected to the grid layout.
 
 ## Technologies Used
 - HTML
@@ -41,8 +41,8 @@ mini_projects/
 ```
 
 ## How to Run
-1. Repository ko download ya clone karein.
-2. Kisi bhi project ki `.html` file ko browser mein open karein.
+1. Download or clone this repository.
+2. Open the `.html` file of any project in your browser.
 
 ## Author
 Rakesh Ahuja
